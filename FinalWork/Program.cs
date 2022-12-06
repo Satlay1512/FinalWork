@@ -10,9 +10,10 @@
 
 string[] firstArray = new string[6] {"hello", "2", "world", ":-)", "Russia", "Denmark"};
 string[] secondArray = new string[firstArray.Length];
-int count = 0;
+
 void SecondArray(string[] firstArray, string[] secondArray)
 {
+    int count = 0;
     for (int i = 0; i < firstArray.Length; i++)
     {
     if(firstArray[i].Length <= 3)
