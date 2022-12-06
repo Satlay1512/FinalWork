@@ -1,0 +1,15 @@
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/FinalWork.csproj.AssemblyReference.cache
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/FinalWork.AssemblyInfoInputs.cache
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/FinalWork.AssemblyInfo.cs
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/FinalWork.csproj.CoreCompileInputs.cache
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/bin/Debug/net6.0/FinalWork
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/bin/Debug/net6.0/FinalWork.deps.json
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/bin/Debug/net6.0/FinalWork.runtimeconfig.json
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/bin/Debug/net6.0/FinalWork.dll
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/bin/Debug/net6.0/FinalWork.pdb
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/FinalWork.dll
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/refint/FinalWork.dll
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/FinalWork.pdb
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/FinalWork.genruntimeconfig.cache
+/Users/satlaj/Desktop/GeekBrains/Lessons/Семинары по C#/Lesson/Lesson010/FinalWork/obj/Debug/net6.0/ref/FinalWork.dll
